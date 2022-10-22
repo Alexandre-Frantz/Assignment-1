@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=c:\Users\Alex\Documents\ISM\Semester 3\Machine Learning - Space Master\Assignments\Assignment 1\sklearn-venv
+set VIRTUAL_ENV=c:\Users\alexa\Desktop\ML-Assignment\Assignment-1\sklearn-venv
 
 if not defined PROMPT set PROMPT=$P$G
 
